@@ -13,7 +13,7 @@ This project is a simple Amazon clone created using HTML and CSS. It currently i
 
 ## Demo 🚀
 
-You can see a live demo of the Amazon clone at [GitHub Pages](https://your-username.github.io/amazon-clone).
+You can see a live demo of the Amazon clone at [GitHub Pages](https://github.com/mayida12/amazon-clone.git).
 
 ## Features 🌟
 
@@ -25,7 +25,7 @@ You can see a live demo of the Amazon clone at [GitHub Pages](https://your-usern
 To get a copy of this project on your local machine, you can clone the repository.
 
 ```bash
-git clone https://github.com/your-username/amazon-clone.git
+git clone https://github.com/mayida12/amazon-clone.git
 ```
 
 ## Usage 🖥️
@@ -48,6 +48,4 @@ If you'd like to contribute to this project, please follow these steps:
 ## License 📝
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
 
-Feel free to adjust the emojis or add more based on your preferences!
